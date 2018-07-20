@@ -1,0 +1,199 @@
+hr {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+.h1, .h2, .h3, h1, h2, h3 {
+  
+    margin-bottom: 15px;
+}
+a {
+    text-decoration: none !important;
+}
+.panel-body a i{
+    padding: 15px;
+    color: #fff;
+}
+.panel-default {
+    color: #ffff;
+    border-color: #ddd;
+      background-color: black;
+}
+.pull-right {
+    float: right !important;
+    padding-top: 20px;
+}
+.pull-left {
+    float: left;
+    padding-top: 25px;
+    color: #ffffff;
+}
+/*.thumbnail:hover .caption {
+    opacity: 0.5 !important;
+
+}*/
+
+.thumbnail  {
+    padding-left: 20px;
+    padding-top: 5px;
+}
+/*-------.navbar--------*/
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 55px;
+    border: 1px solid transparent;
+}
+
+/*-------.navbar--------*/
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
+
+/*------------------Header 1*/
+#header1 {
+    color: #ffff;
+    background-color: #1a1c27;
+}
+
+
+/*------------------Header 1*/
+
+
+/*------------------Header*/
+
+ #header {
+	background-color: #01e8ff;
+    z-index: 10;
+    margin-bottom: 0;
+
+}
+.navbar-default .navbar-brand {
+    color: #fff;
+    padding-right: 60px;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+.navbar-default {
+    background: 0;
+    border-color: #e7e7e7;
+}
+
+.container-fluid {
+    background-color: 0;
+}
+.navbar-default .navbar-nav>.active>a {
+	background-color: #463265;
+	color: #fff;
+}
+
+.navbar-default .navbar-nav>.active>a:hover {
+    cursor: pointer;
+	background-color: red;
+}
+.navbar-right {
+    float: right !important;
+    margin-right: -15px;
+    cursor: pointer;
+}
+
+
+.btn-group-lg>.btn, .btn-lg {
+    padding: 10px 16px;
+     font-size: 14px; 
+    border-radius: 6px;
+}
+
+.btn-info {
+    color: #fff;
+    background-color: 0; 
+    border-color: 0; 
+}
+
+/*---------carousel-inner slide-------------*/
+.thumbnail > img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+    height: 30%;
+}
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin-top: 3%;
+}
+ img, .carousel-inner > .item > img {
+    line-height: 1;
+    width: 100%;
+    height: 30%;
+}
+/*carousel-inner slide*/
+
+
+.text-center a{
+    cursor: pointer;
+    color: #428bca;
+}
+.text-center {
+     margin-bottom: 2%;
+    text-align: center;
+    float: right;
+    margin-top: 4%;
+    padding-right: 21%;
+}
+
+
+/*-----------Gambar 1 2 3------*/
+
+.list-inline ul li {
+    padding-right: 20px;
+}
+/*-----------Gambar 1 2 3------*/
+
+
+.media-body {
+    width: auto;
+}
+
+#button {
+    border: none; background-color: #ffa800;
+    padding: 10px; 
+    width: 100px;
+    margin-left: 20px;
+    text-align: center;
+    position: relative;bottom: -25px;
+}
+.Reading:hover {margin-top: 2%; float: right; width: 25%;
+ background: red; 
+ padding-top:10px; padding-bottom: 2%;
+  padding-left: 4%;
+}
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #dc9611;
+    background-color: #c2c6ca;
+    font: bold;
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.col-sm-4 .thumbnail,a {
+    color: #fff;
+}
